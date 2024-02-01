@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Turbulence Structure Laboratory** has been a center of excellence for Human and recently also Artificial Intelligence in Turbulence Experimental research, teaching, and practice since its founding in 2006.
   
   - block: collection
     content:
